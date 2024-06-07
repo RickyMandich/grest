@@ -3,7 +3,7 @@ git status
 read
 git commit
 read
-cls
+clear
 git push
 read
-cls
+clear

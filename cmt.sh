@@ -2,7 +2,8 @@ git add .
 git status
 read
 nomeCommit=`date "+%Y %m %d %H:%M"`
-git commit -m "aggiornamento "$nomeCommit
+nomeCommit="aggiornamento "$nomeCommit
+git commit -m "$nomeCommit"
 read
 clear
 git push

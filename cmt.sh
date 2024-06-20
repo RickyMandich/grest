@@ -1,5 +1,6 @@
 git add .
 git status
+echo press invio to continue...
 read
 nomeCommit=`date "+%Y %m %d %H:%M"`
 nomeCommit="aggiornamento "$nomeCommit

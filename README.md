@@ -1,7 +1,7 @@
 # da sistemare le ultime cose
 ## per tutti
 - ricontrollare i biglietti della caccia al tesoro e sistemare il nome da shu natale a shu natalie
-- preparare il gioco dell'oca per lunedì (domande, cartellone, imprevisti)
+- preparare il gioco dell'oca per lunedì (domande sulla scenetta)
 ## elementari
 ## medie
 # da fare

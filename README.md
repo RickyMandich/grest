@@ -37,7 +37,8 @@ legenda:
 |gioco del telo (mattina)|3|4|5|0|
 |gioco delle sedie con il dado (mattina)|1|0|1|0|
 |gioco del pescatore (elementari pomeriggio)|||||
-|gioco del fazzoletto (medie pomeriggio)|||||
+|pallavolo (medie pomeriggio)|2|2|0|0|
+|gioco del fazzoletto (medie pomeriggio)|0|0|2|2|
 |totale||||||
 
 # tabella punteggi

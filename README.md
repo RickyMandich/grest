@@ -33,4 +33,4 @@ legenda:
 |Vittorie||||
 |:---:|:---:|:---:|:---:|
 |Piumosi|Neroni|Mestoli|Veggenti|
-
+|3|4|5|0|

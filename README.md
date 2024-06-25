@@ -18,14 +18,14 @@ legenda:
 |partita|squadra 1|squadra 2|
 |:---:|:---:|:---:|
 |1.1|Piumosi|Neroni|
-|punti|||
+|punti|20|21|
 |1.2|Veggenti|Mestoli|
-|punti|||
+|punti|24|25|
 |2.1|Piumosi|Veggenti|
-|punti|||
+|punti|18|14|
 |2.2|Neroni|Mestoli|
-|punti|||
+|punti|23|25|
 |3.1|Piumosi|Mestoli|
-|punti|||
+|punti|16|16|
 |3.2|Neroni|Veggenti|
-|punti|||
+|punti|12|5|

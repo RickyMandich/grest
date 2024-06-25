@@ -39,7 +39,7 @@ legenda:
 |gioco del pescatore (elementari pomeriggio)|3|4|1|1|
 |pallavolo (medie pomeriggio)|2|2|0|0|
 |gioco del fazzoletto (medie pomeriggio)|0|0|2|2|
-|totale||||||
+|totale|9|10|9|3|
 
 # tabella punteggi
 

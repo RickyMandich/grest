@@ -30,7 +30,7 @@ legenda:
 |3.2|Neroni|Veggenti|
 |punti|12|5|
 
-|Vittorie|
+|Vittorie||||
 |:---:|:---:|:---:|:---:|
 |Piumosi|Neroni|Mestoli|Veggenti|
 

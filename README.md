@@ -34,13 +34,13 @@ legenda:
 |Vittorie||||
 |:---:|:---:|:---:|:---:|
 |Piumosi|Neroni|Mestoli|Veggenti|
-|5|4|7|0|
+|3+1|4|5+1|0|
 
 # tabella punteggi
 
 ||martedì 25|mercoledì 26|giovedì 27|venerdì 28|lunedì 1|martedì 2|mercoledì 3|giovedì 4|venerdì 5|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Piumosi||||||||||
-|Mestoli||||||||||
-|Neroni||||||||||
-|Veggenti||||||||||
+|Piumosi|0|||||||||
+|Mestoli|0|||||||||
+|Neroni|0|||||||||
+|Veggenti|0|||||||||

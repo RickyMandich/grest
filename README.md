@@ -9,3 +9,14 @@
 ## medie
 
 ### film in corso: anastasia minutaggio 00:33
+
+### partite palle telo
+legenda:
+- partita+ = vincitore della partita
+- partita- = perdente della partita
+| partita | squadra 1 | squadra 2 |
+| : --- : | : --- : | : --- : |
+| 1.1 | Piumosi | Neroni |
+| 1.2 | Veggenti| Mestoli |
+| 2.1 |
+| 2.2 |

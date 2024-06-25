@@ -29,3 +29,8 @@ legenda:
 |punti|16|16|
 |3.2|Neroni|Veggenti|
 |punti|12|5|
+
+|Vittorie|
+|:---:|:---:|:---:|:---:|
+|Piumosi|Neroni|Mestoli|Veggenti|
+

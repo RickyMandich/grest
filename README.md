@@ -31,16 +31,20 @@ legenda:
 |3.2|Neroni|Veggenti|
 |punti|12|5|
 
-|Vittorie||||
-|:---:|:---:|:---:|:---:|
-|Piumosi|Neroni|Mestoli|Veggenti|
-|3+1|4|5+1|0|
+|Vittorie|||||
+|:---:|:---:|:---:|:---:|:---:|
+||Piumosi|Neroni|Mestoli|Veggenti|
+|gioco del telo (mattina)|3|4|5|0|
+|gioco delle sedie con il dado (mattina)|1|0|1|0|
+|gioco del pescatore (elementari pomeriggio)|||||
+|gioco del fazzoletto (medie pomeriggio)|||||
+|totale||||||
 
 # tabella punteggi
 
-||martedì 25|mercoledì 26|giovedì 27|venerdì 28|lunedì 1|martedì 2|mercoledì 3|giovedì 4|venerdì 5|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Piumosi|0|||||||||
-|Mestoli|0|||||||||
-|Neroni|0|||||||||
-|Veggenti|0|||||||||
+||lunedì 24|martedì 25|mercoledì 26|giovedì 27|venerdì 28|lunedì 1|martedì 2|mercoledì 3|giovedì 4|venerdì 5|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|Piumosi|0||||0|||0||0|
+|Mestoli|0||||0|||0||0|
+|Neroni|0||||0|||0||0|
+|Veggenti|0||||0|||0||0|

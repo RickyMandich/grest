@@ -45,7 +45,7 @@ legenda:
 
 ||lunedì 24|martedì 25|mercoledì 26|giovedì 27|venerdì 28|lunedì 1|martedì 2|mercoledì 3|giovedì 4|venerdì 5|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Piumosi|0||||0|||0||0|
-|Mestoli|0||||0|||0||0|
-|Neroni|0||||0|||0||0|
-|Veggenti|0||||0|||0||0|
+|Piumosi|0|3|||0|||0||0|
+|Mestoli|0|3|||0|||0||0|
+|Neroni|0|4|||0|||0||0|
+|Veggenti|0|2|||0|||0||0|

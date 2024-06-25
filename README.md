@@ -18,5 +18,3 @@ legenda:
 | : --- : | : --- : | : --- : |
 | 1.1 | Piumosi | Neroni |
 | 1.2 | Veggenti| Mestoli |
-| 2.1 |
-| 2.2 |

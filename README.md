@@ -10,6 +10,7 @@
 
 ### film in corso: anastasia minutaggio 00:33
 
+# giochi
 ### partite palle telo
 legenda:
 - partita+ = vincitore della partita
@@ -18,7 +19,7 @@ legenda:
 |partita|squadra 1|squadra 2|
 |:---:|:---:|:---:|
 |1.1|Piumosi|Neroni|
-|punti|20|21|
+|punti|21|20|
 |1.2|Veggenti|Mestoli|
 |punti|24|25|
 |2.1|Piumosi|Veggenti|
@@ -33,4 +34,13 @@ legenda:
 |Vittorie||||
 |:---:|:---:|:---:|:---:|
 |Piumosi|Neroni|Mestoli|Veggenti|
-|3|4|5|0|
+|5|2|5|0|
+
+# tabella punteggi
+
+||martedì 25|mercoledì 26|giovedì 27|venerdì 28|lunedì 1|martedì 2|mercoledì 3|giovedì 4|venerdì 5|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|||||||||||
+|||||||||||
+|||||||||||
+|||||||||||

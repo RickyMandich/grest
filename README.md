@@ -8,13 +8,10 @@
 ## elementari
 ## medie
 
-### film in corso: anastasia minutaggio 00:33
+### film in corso: sister act 1 minutaggio 0:00
 
 # giochi
-### partite palle telo
-legenda:
-- partita+ = vincitore della partita
-- partita- = perdente della partita
+## partite palle telo
 
 |partita|squadra 1|squadra 2|
 |:---:|:---:|:---:|
@@ -31,6 +28,8 @@ legenda:
 |3.2|Neroni|Veggenti|
 |punti|12|5|
 
+## somma vittorie martedì
+
 |Vittorie|||||
 |:---:|:---:|:---:|:---:|:---:|
 ||Piumosi|Neroni|Mestoli|Veggenti|
@@ -41,11 +40,28 @@ legenda:
 |gioco del fazzoletto (medie pomeriggio)|0|0|2|2|
 |totale|9|10|9|3|
 
+## partite roverino
+
+|partita|squadra 1|squadra 2|
+|:---:|:---:|:---:|
+|1|Piumosi Neroni|Mestoli Veggenti|
+|punti|3|7|
+
+## somma vittorie mercoledì
+
+|Vittorie|||||
+|:---:|:---:|:---:|:---:|:---:|
+||Piumosi|Neroni|Mestoli|Veggenti|
+|tre bugie una verità (elementari pomeriggio)|9|3|7|7|
+|percorso con il bicchiere (elementari pomeriggio)|4|2|1|3|
+|roverino (medie pomeriggio)|0|0|2|2|
+|totale|13|5|10|12|
+
 # tabella punteggi
 
 ||lunedì 24|martedì 25|mercoledì 26|giovedì 27|venerdì 28|lunedì 1|martedì 2|mercoledì 3|giovedì 4|venerdì 5|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Piumosi|0|3|||0|||0||0|
-|Mestoli|0|3|||0|||0||0|
-|Neroni|0|4|||0|||0||0|
-|Veggenti|0|2|||0|||0||0|
+|Piumosi|0|3|4||0|||0||0|
+|Mestoli|0|3|2||0|||0||0|
+|Neroni|0|4|1||0|||0||0|
+|Veggenti|0|2|3||0|||0||0|

@@ -105,8 +105,8 @@
 |Vittorie|||||
 |:---:|:---:|:---:|:---:|:---:|
 ||Piumosi|Neroni|Mestoli|Veggenti|
-|percorso|0|0|0|0|
-|giochi da tavolo|0|0|0|0|
+|percorso|1|1|1|1|
+|giochi da tavolo|0|0|0|2|
 |kabbadi (pomeriggio elementari)|0|0|0|0|
 |palla base (pomeriggio medie)|0|0|0|0|
 |totale elementari|0|0|0|0|

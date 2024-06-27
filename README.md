@@ -125,8 +125,8 @@
 ||Piumosi|Neroni|Mestoli|Veggenti|
 |percorso|1|1|1|1|
 |giochi da tavolo|0|0|0|2|
-|fazzolettone|
-|kabbadi (pomeriggio elementari)|0|0|0|0|
+|fazzolettone (pomeriggio elementari)|1|2|0|1|
+|kabbadi (pomeriggio elementari)|2|0|2|0|
 |palla base (pomeriggio medie)|2|2|0|0|
 |ninja (pomeriggio medie)|0|0|2|1|
 |totale elementari|0|0|0|0|

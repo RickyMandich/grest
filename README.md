@@ -79,10 +79,10 @@
 
 |Squadra|memory stradale 1|gioco dell'oca|memory stradale 2|memory disney 1|puzzle|non t'arrabbiare 1|non t'arrabbiare 2|memory stradale 3|memory disney 2|memory stradale 4|forza 4|totale|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Piumosi|0|0|2|0|1|0|0|0|0|0|1|2|
-|Mestoli|0|0|2|4|1|2|4|0|0|0|0|8|
+|Piumosi|0|0|2|0|1|0|0|0|0|0|1|4|
+|Mestoli|0|0|2|4|1|2|4|0|0|0|0|13|
 |Neroni|0|0|2|2|2|2|2|0|0|0|0|10|
-|Veggenti|0|4|2|2|3|4|0|0|0|4|0|14|
+|Veggenti|0|4|2|2|3|4|0|0|0|4|0|19|
 
 ### kabbadi (pomeriggio elementari)
 

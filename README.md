@@ -65,9 +65,9 @@
 
 # tabella punteggi
 
-||lunedì 24|martedì 25|mercoledì 26|giovedì 27|venerdì 28|lunedì 1|martedì 2|mercoledì 3|giovedì 4|venerdì 5|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Piumosi|0|3+3|4+3||0|||0||0|
-|Mestoli|0|3+4|2+4||0|||0||0|
-|Neroni|0|4+3|1+3||0|||0||0|
-|Veggenti|0|2+2|3+4||0|||0||0|
+||lunedì 24|martedì 25|mercoledì 26|giovedì 27|venerdì 28|lunedì 1|martedì 2|mercoledì 3|giovedì 4|venerdì 5|totale
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|Piumosi|0|3+3|4+3||0|||0||0|13
+|Mestoli|0|3+4|2+4||0|||0||0|13
+|Neroni|0|4+3|1+3||0|||0||0|11
+|Veggenti|0|2+2|3+4||0|||0||0|11

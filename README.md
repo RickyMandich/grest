@@ -95,10 +95,19 @@
 
 ### palla base (pomeriggio medie)
 
-|Squadra|punti|
+|Squadra|partita 1|
 |:---:|:---:|
-|Piumosi/Neroni|0|
-|Mestoli/Veggenti|0|
+|Piumosi/Neroni|6|
+|Mestoli/Veggenti|4|
+
+### ninja (pomeriggio medie)
+
+|squadra|vittorie|
+|:---:|:---:|
+|Piumosi|
+|Neroni|
+|Mestoli|
+|Veggenti|
 
 ### somma vittorie giovedì
 
@@ -108,10 +117,11 @@
 |percorso|1|1|1|1|
 |giochi da tavolo|0|0|0|2|
 |kabbadi (pomeriggio elementari)|0|0|0|0|
-|palla base (pomeriggio medie)|0|0|0|0|
+|palla base (pomeriggio medie)|2|2|0|0|
+|ninja (pomeriggio medie)|0|0|0|0|
 |totale elementari|0|0|0|0|
-|totale medie|0|0|0|0|
-|totale|0|0|0|0|
+|totale medie|3|3|1|1|
+|totale|3|3|1|1|
 |punti|0+0|0+0|0+0|0+0|
 
 # tabella punteggi

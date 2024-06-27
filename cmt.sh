@@ -6,3 +6,4 @@ nomeCommit="aggiornamento "$nomeCommit
 git commit -m "$nomeCommit"
 clear
 git push
+clear

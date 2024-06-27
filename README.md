@@ -8,7 +8,7 @@
 ## elementari
 ## medie
 
-### film in corso: sister act 1 minutaggio 45j:00
+### film in corso: sister act 1 minutaggio 45:00
 
 # giochi
 ## martedì

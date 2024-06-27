@@ -38,7 +38,10 @@
 |gioco del pescatore (elementari pomeriggio)|3|4|1|1|
 |pallavolo (medie pomeriggio)|2|2|0|0|
 |gioco del fazzoletto (medie pomeriggio)|0|0|2|2|
+|totale elementari|7|8|7|1|
+|totale medie|6|6|8|0|
 |totale|9|10|9|3|
+|punti|3+3|4+3|3+4|2+2|
 
 ## partite roverino
 
@@ -55,13 +58,16 @@
 |tre bugie una verità (elementari pomeriggio)|9|3|7|7|
 |percorso con il bicchiere (elementari pomeriggio)|4|2|1|3|
 |roverino (medie pomeriggio)|0|0|2|2|
+|totale elementari|13|5|8|10|
+|totale medie|0|0|2|2|
 |totale|13|5|10|12|
+|punti|4+3|1+3|2+4|3+4|
 
 # tabella punteggi
 
 ||lunedì 24|martedì 25|mercoledì 26|giovedì 27|venerdì 28|lunedì 1|martedì 2|mercoledì 3|giovedì 4|venerdì 5|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Piumosi|0|3|4||0|||0||0|
-|Mestoli|0|3|2||0|||0||0|
-|Neroni|0|4|1||0|||0||0|
-|Veggenti|0|2|3||0|||0||0|
+|Piumosi|0||||0|||0||0|
+|Mestoli|0||||0|||0||0|
+|Neroni|0||||0|||0||0|
+|Veggenti|0||||0|||0||0|

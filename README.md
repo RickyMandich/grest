@@ -11,7 +11,8 @@
 ### film in corso: sister act 1 minutaggio 0:00
 
 # giochi
-## partite palle telo
+## martedì
+### partite palle telo
 
 |partita|squadra 1|squadra 2|
 |:---:|:---:|:---:|
@@ -28,7 +29,7 @@
 |3.2|Neroni|Veggenti|
 |punti|12|5|
 
-## somma vittorie martedì
+### somma vittorie martedì
 
 |Vittorie|||||
 |:---:|:---:|:---:|:---:|:---:|
@@ -43,14 +44,15 @@
 |totale|9|10|9|3|
 |punti|3+3|4+3|3+4|2+2|
 
-## partite roverino
+## mercoledì
+### partite roverino
 
 |partita|squadra 1|squadra 2|
 |:---:|:---:|:---:|
 |1|Piumosi Neroni|Mestoli Veggenti|
 |punti|3|7|
 
-## somma vittorie mercoledì
+### somma vittorie mercoledì
 
 |Vittorie|||||
 |:---:|:---:|:---:|:---:|:---:|
@@ -63,11 +65,60 @@
 |totale|13|5|10|12|
 |punti|4+3|1+3|2+4|3+4|
 
+## giovedì
+### percorso
+
+|Squadra|punti|
+|:---:|:---:|
+|Piumosi|48|
+|Mestoli|48|
+|Neroni|48|
+|Veggenti|48|
+
+### giochi da tavolo
+
+|Squadra|memory stradale 1|gioco dell'oca|memory stradale 2|memory disney 1|puzzle|non t'arrabbiare 1|non t'arrabbiare 2|memory stradale 3|memory disney 2|memory stradale 4|forza 4|totale|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|Piumosi|0|0|2|0|1|0|0|0|0|0|1|2|
+|Mestoli|0|0|2|4|1|2|4|0|0|0|0|8|
+|Neroni|0|0|2|2|2|2|2|0|0|0|0|10|
+|Veggenti|0|4|2|2|3|4|0|0|0|4|0|14|
+
+### kabbadi (pomeriggio elementari)
+
+|Squadra|punti|
+|:---:|:---:|
+|Piumosi|0|
+|Mestoli|0|
+|Neroni|0|
+|Veggenti|0|
+
+### palla base (pomeriggio medie)
+
+|Squadra|punti|
+|:---:|:---:|
+|Piumosi/Neroni|0|
+|Mestoli/Veggenti|0|
+
+### somma vittorie giovedì
+
+|Vittorie|||||
+|:---:|:---:|:---:|:---:|:---:|
+||Piumosi|Neroni|Mestoli|Veggenti|
+|percorso|0|0|0|0|
+|giochi da tavolo|0|0|0|0|
+|kabbadi (pomeriggio elementari)|0|0|0|0|
+|palla base (pomeriggio medie)|0|0|0|0|
+|totale elementari|0|0|0|0|
+|totale medie|0|0|0|0|
+|totale|0|0|0|0|
+|punti|0+0|0+0|0+0|0+0|
+
 # tabella punteggi
 
 ||lunedì 24|martedì 25|mercoledì 26|giovedì 27|venerdì 28|lunedì 1|martedì 2|mercoledì 3|giovedì 4|venerdì 5|totale
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Piumosi|0|3+3|4+3||0|||0||0|13
-|Mestoli|0|3+4|2+4||0|||0||0|13
-|Neroni|0|4+3|1+3||0|||0||0|11
-|Veggenti|0|2+2|3+4||0|||0||0|11
+|Piumosi|0|3+3|4+3||0|||0||0|13|
+|Mestoli|0|3+4|2+4||0|||0||0|13|
+|Neroni|0|4+3|1+3||0|||0||0|11|
+|Veggenti|0|2+2|3+4||0|||0||0|11|

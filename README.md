@@ -86,12 +86,21 @@
 
 ### kabbadi (pomeriggio elementari)
 
-|Squadra|punti|
-|:---:|:---:|
-|Piumosi|0|
-|Mestoli|0|
-|Neroni|0|
-|Veggenti|0|
+|partita|squadra 1|squadra 2|
+|:---:|:---:|:---:|
+|1|Piumosi|Veggenti|
+|punti|1|0|
+|2|Neroni|Mestoli|
+|punti|0|1|
+
+### fazzolettone (pomeriggio elementari)
+
+|partita|squadra 1|squadra 2|
+|:---:|:---:|:---:|
+|1|Piumosi|Veggenti|
+|punti|5|5|
+|2|Neroni|Mestoli|
+|punti|10|5|
 
 ### palla base (pomeriggio medie)
 
@@ -106,8 +115,8 @@
 |:---:|:---:|
 |Piumosi|
 |Neroni|
-|Mestoli|
-|Veggenti|
+|Mestoli|2|
+|Veggenti|1|
 
 ### somma vittorie giovedì
 
@@ -116,11 +125,12 @@
 ||Piumosi|Neroni|Mestoli|Veggenti|
 |percorso|1|1|1|1|
 |giochi da tavolo|0|0|0|2|
+|fazzolettone|
 |kabbadi (pomeriggio elementari)|0|0|0|0|
 |palla base (pomeriggio medie)|2|2|0|0|
-|ninja (pomeriggio medie)|0|0|0|0|
+|ninja (pomeriggio medie)|0|0|2|1|
 |totale elementari|0|0|0|0|
-|totale medie|3|3|1|1|
+|totale medie|3|3|3|4|
 |totale|3|3|1|1|
 |punti|0+0|0+0|0+0|0+0|
 

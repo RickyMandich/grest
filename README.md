@@ -113,8 +113,8 @@
 
 |squadra|vittorie|
 |:---:|:---:|
-|Piumosi|
-|Neroni|
+|Piumosi|0|
+|Neroni|0|
 |Mestoli|2|
 |Veggenti|1|
 

@@ -8,7 +8,7 @@
 ## elementari
 ## medie
 
-### film in corso: sister act 1 minutaggio 45:00
+### film in corso: il pianeta del tesoro minutaggio 59:00
 
 # giochi
 ## martedì

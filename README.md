@@ -166,10 +166,8 @@
 
 |Squadra|indovinate|punti|
 |:---:|:---:|:---:|
-|piumosi|||
-|neroni|||
-|mestoli|||
-|veggenti|||
+|piumosi/neroni|7|0|
+|mestoli/veggenti|8|2|
 
 ### somma vittorie
 
@@ -179,7 +177,7 @@
 |gioco dei vestiti|4|3|2|4|
 |giochi da tavolo|1|2|3|4|
 |palla base (pomeriggio elementari)|||||
-|quiz (pomeriggio medie)|||||
+|quiz (pomeriggio medie)|0|0|2|2|
 |totale elementari|||||
 |totale medie|||||
 |punti|0+0|0+0|0+0|0+0|

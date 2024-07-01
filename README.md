@@ -179,7 +179,7 @@
 |palla base (pomeriggio elementari)|||||
 |quiz (pomeriggio medie)|0|0|2|2|
 |totale elementari|||||
-|totale medie|||||
+|totale medie|5|5|7|10|
 |punti|0+0|0+0|0+0|0+0|
 
 ## martedì 2

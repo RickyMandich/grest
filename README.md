@@ -171,6 +171,19 @@
 |mestoli|||
 |veggenti|||
 
+### somma vittorie
+
+|Vittorie|||||
+|:---:|:---:|:---:|:---:|:---:|
+||Piumosi|Neroni|Mestoli|Veggenti|
+|gioco dei vestiti|4|3|2|4|
+|giochi da tavolo|1|2|3|4|
+|palla base (pomeriggio elementari)|||||
+|quiz (pomeriggio medie)|||||
+|totale elementari|||||
+|totale medie|||||
+|punti|0+0|0+0|0+0|0+0|
+
 ## martedì 2
 
 ### anfore

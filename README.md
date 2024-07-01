@@ -148,10 +148,10 @@
 
 |Squadra|memory stradale 1|gioco dell'oca|memory stradale 2|memory disney 1|puzzle|non t'arrabbiare 1|non t'arrabbiare 2|memory stradale 3|memory disney 2|memory stradale 4|forza 4|totale|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Piumosi|0|0|0|0|0|0|0|0|0|0|0|0|
-|Mestoli|0|0|0|0|0|0|0|0|0|0|0|0|
-|Neroni|0|0|0|0|0|0|0|0|0|0|0|0|
-|Veggenti|0|0|0|0|0|0|0|0|0|0|0|0|
+|Piumosi|2|2|0|0|2|2|0|0|0|0|6|14|
+|Neroni|0|2|0|2|0|2|0|2|4|0|4|16|
+|Veggenti|2|2|2|4|0|0|0|2|2|0|8|22|
+|Mestoli|4|0|2|0|0|0|0|0|0|2|12|20|
 
 ### palla base (pomeriggio elementari)
 

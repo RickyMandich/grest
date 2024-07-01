@@ -180,7 +180,7 @@
 |quiz (pomeriggio medie)|0|0|2|2|
 |totale elementari|||||
 |totale medie|5|5|7|10|
-|punti|0+0|0+0|0+0|0+0|
+|punti|2+0|2+0|3+0|4+0|
 
 ## martedì 2
 

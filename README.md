@@ -157,10 +157,10 @@
 
 |Squadra|partita 1|
 |:---:|:---:|
-|Piumosi||
-|Neroni||
-|Mestoli||
-|Veggenti||
+|Piumosi|14|
+|Neroni|14|
+|Mestoli|11|
+|Veggenti|9|
 
 ### quiz (pomeriggio medie)
 
@@ -176,11 +176,11 @@
 ||Piumosi|Neroni|Mestoli|Veggenti|
 |gioco dei vestiti|4|3|2|4|
 |giochi da tavolo|1|2|3|4|
-|palla base (pomeriggio elementari)|||||
+|palla base (pomeriggio elementari)|4|4|3|2|
 |quiz (pomeriggio medie)|0|0|2|2|
-|totale elementari|||||
+|totale elementari|9|9|8|10|
 |totale medie|5|5|7|10|
-|punti|2+0|2+0|3+0|4+0|
+|punti|2+3|2+3|3+2|4+4|
 
 ## martedì 2
 
@@ -252,7 +252,7 @@
 
 ||lunedì 24|martedì 25|mercoledì 26|giovedì 27|venerdì 28|lunedì 1|martedì 2|mercoledì 3|giovedì 4|venerdì 5|totale
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Piumosi|0|3+3|4+3|4+3|0|||0||0|20|
-|Mestoli|0|3+4|2+4|3+3|0|||0||0|19|
-|Neroni|0|4+3|1+3|3+3|0|||0||0|17|
-|Veggenti|0|2+2|3+4|4+4|0|||0||0|19|
+|Piumosi|0|3+3|4+3|4+3|0|2+||0||0|20|
+|Mestoli|0|3+4|2+4|3+3|0|3+||0||0|19|
+|Neroni|0|4+3|1+3|3+3|0|2+||0||0|17|
+|Veggenti|0|2+2|3+4|4+4|0|4+||0||0|19|

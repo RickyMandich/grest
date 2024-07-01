@@ -157,10 +157,10 @@
 
 |Squadra|partita 1|
 |:---:|:---:|
-|Piumosi|0|
-|Neroni|0|
-|Mestoli|0|
-|Veggenti|0|
+|Piumosi||
+|Neroni||
+|Mestoli||
+|Veggenti||
 
 ### quiz (pomeriggio medie)
 

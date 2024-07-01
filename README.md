@@ -137,18 +137,18 @@
 
 ### gioco dei vestiti
 
-|Squadra|vestiti|punti|
-|:---:|:---:|:---:|
-|piumosi|||
-|neroni|||
-|mestoli|||
-|veggenti|||
+|Squadra|round 1|round 2|round 3|punti|
+|:---:|:---:|:---:|:---:|:---:|
+|piumosi|17|21|23|3+3+4=10|
+|neroni|17|21|21|3+3+3=9|
+|mestoli|16|24|19|2+4+2=8|
+|veggenti|19|21|21|4+3+3=10|
 
 ### giochi da tavolo
 
 |Squadra|memory stradale 1|gioco dell'oca|memory stradale 2|memory disney 1|puzzle|non t'arrabbiare 1|non t'arrabbiare 2|memory stradale 3|memory disney 2|memory stradale 4|forza 4|totale|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Piumosi|0|0|0|0|0|0|0|0|0|0|0|0|
+|Piumosi|0|0|0|0|0|0|0|2|0|0|2|0|
 |Mestoli|0|0|0|0|0|0|0|0|0|0|0|0|
 |Neroni|0|0|0|0|0|0|0|0|0|0|0|0|
 |Veggenti|0|0|0|0|0|0|0|0|0|0|0|0|

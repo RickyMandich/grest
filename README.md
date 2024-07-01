@@ -133,6 +133,37 @@
 |totale medie|3|3|3|4|
 |punti|4+3|3+3|3+3|4+4|
 
+## lunedì 1
+
+### gioco dei vestiti
+
+|Squadra|vestiti|punti|
+|:---:|:---:|:---:|
+|piumosi|||
+|neroni|||
+|mestoli|||
+|veggenti|||
+
+### giochi da tavolo
+
+|Squadra|memory stradale 1|gioco dell'oca|memory stradale 2|memory disney 1|puzzle|non t'arrabbiare 1|non t'arrabbiare 2|memory stradale 3|memory disney 2|memory stradale 4|forza 4|totale|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|Piumosi|0|0|0|0|0|0|0|0|0|0|0|0|
+|Mestoli|0|0|0|0|0|0|0|0|0|0|0|0|
+|Neroni|0|0|0|0|0|0|0|0|0|0|0|0|
+|Veggenti|0|0|0|0|0|0|0|0|0|0|0|0|
+
+### palla base (pomeriggio elementari)
+
+|Squadra|partita 1|
+|:---:|:---:|
+|Piumosi|0|
+|Neroni|0|
+|Mestoli|0|
+|Veggenti|0|
+
+###  (pomeriggio medie)
+
 # tabella punteggi
 
 ||lunedì 24|martedì 25|mercoledì 26|giovedì 27|venerdì 28|lunedì 1|martedì 2|mercoledì 3|giovedì 4|venerdì 5|totale

@@ -49,7 +49,7 @@
 
 |partita|squadra 1|squadra 2|
 |:---:|:---:|:---:|
-|1|Piumosi Neroni|Mestoli Veggenti|
+|1|Piumosi/Neroni|Mestoli/Veggenti|
 |punti|3|7|
 
 ### somma vittorie mercoledì
@@ -162,7 +162,60 @@
 |Mestoli|0|
 |Veggenti|0|
 
-###  (pomeriggio medie)
+### quiz (pomeriggio medie)
+
+|Squadra|indovinate|punti|
+|:---:|:---:|:---:|
+|piumosi|||
+|neroni|||
+|mestoli|||
+|veggenti|||
+
+## martedì 2
+
+### anfore
+
+|Squadre|punti|
+|:---:|:---:|
+|piumosi||
+|neroni||
+|mestoli||
+|veggenti||
+
+### giochi da tavolo
+
+|Squadra|memory stradale 1|gioco dell'oca|memory stradale 2|memory disney 1|puzzle|non t'arrabbiare 1|non t'arrabbiare 2|memory stradale 3|memory disney 2|memory stradale 4|forza 4|totale|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|Piumosi|0|0|0|0|0|0|0|0|0|0|0|0|
+|Mestoli|0|0|0|0|0|0|0|0|0|0|0|0|
+|Neroni|0|0|0|0|0|0|0|0|0|0|0|0|
+|Veggenti|0|0|0|0|0|0|0|0|0|0|0|0|
+
+### roverino (pomeriggio elementari)
+
+|Squadre|partita 1|partita 2|
+|:---:|:---:|:---:|
+|piumosi|||
+|neroni|||
+|mestoli|||
+|veggenti|||
+
+### alce rossa FORSE (pomeriggio medie)
+
+|Squadre|punti|
+|:---:|:---:|
+|piumosi/neroni||
+|mestoli/veggenti||
+
+## giovedì 4
+### quizzone
+
+|Squadre|punti|
+|:---:|:---:|
+|piumosi||
+|neroni||
+|mestoli||
+|veggenti||
 
 # tabella punteggi
 

@@ -202,6 +202,17 @@
 |Neroni|0|
 |Veggenti|2|
 
+### somma vittorie
+
+|Vittorie|||||
+|:---:|:---:|:---:|:---:|:---:|
+||Piumosi|Neroni|Mestoli|Veggenti|
+|giochi da tavolo|3|4|2|1|
+|wiskey soda e rock n' roll|4|4|0|0|
+|totale elementari|7|8|2|1|
+|totale medie|7|8|2|1|
+|punti|3+3|4+4|2+2|1+1|
+
 ## giovedì 4
 
 ### quizzone
@@ -237,7 +248,7 @@
 
 ||lunedì 24|martedì 25|mercoledì 26|giovedì 27|venerdì 28|lunedì 1|martedì 2|mercoledì 3|giovedì 4|venerdì 5|totale
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Piumosi|0|3+3|4+3|4+3|0|2+3||0||0|25|
-|Mestoli|0|3+4|2+4|3+3|0|3+2||0||0|24|
-|Neroni|0|4+3|1+3|3+3|0|2+3||0||0|22|
-|Veggenti|0|2+2|3+4|4+4|0|4+4||0||0|27|
+|Piumosi|0|3+3|4+3|4+3|0|2+3|3+3|0||0|31|
+|Mestoli|0|3+4|2+4|3+3|0|3+2|2+2|0||0|28|
+|Neroni|0|4+3|1+3|3+3|0|2+3|4+4|0||0|30|
+|Veggenti|0|2+2|3+4|4+4|0|4+4|1+1|0||0|29|

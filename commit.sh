@@ -1,4 +1,3 @@
-cd "C:\Users\ssppo\Desktop\grest"
 git add .
 git status
 echo press invio to continue...

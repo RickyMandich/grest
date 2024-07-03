@@ -1,4 +1,3 @@
-cd "C:\Users\ssppo\Desktop\grest"
 git add .
 git status
 nomeCommit=`date "+%Y %m %d %H:%M"`

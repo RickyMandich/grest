@@ -184,15 +184,6 @@
 
 ## mercoledì 3
 
-### anfore
-
-|Squadre|punti|
-|:---:|:---:|
-|piumosi||
-|neroni||
-|mestoli||
-|veggenti||
-
 ### giochi da tavolo
 
 |Squadra|memory stradale 1|gioco dell'oca|memory stradale 2|memory disney 1|puzzle|non t'arrabbiare 1|non t'arrabbiare 2|memory stradale 3|memory disney 2|memory stradale 4|forza 4|totale|

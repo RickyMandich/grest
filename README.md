@@ -182,7 +182,7 @@
 |totale medie|5|5|7|10|
 |punti|2+3|2+3|3+2|4+4|
 
-## martedì 2
+## mercoledì 3
 
 ### anfore
 

@@ -6,7 +6,7 @@
 ## per tutti
 ## elementari
 ## medie
-* preparare il video in stop motion sulla base delle foto presenti nella cartella `video stop motion`
+- preparare il video in stop motion sulla base delle foto presenti nella cartella `video stop motion`
 
 # giochi
 ## martedì
@@ -222,25 +222,23 @@
 |mestoli||
 |veggenti||
 
-### giochi da tavolo
+### gioco delle sedie (mattina medie)
 
-|Squadra|memory stradale 1|gioco dell'oca|memory stradale 2|memory disney 1|puzzle|non t'arrabbiare 1|non t'arrabbiare 2|memory stradale 3|memory disney 2|memory stradale 4|forza 4|totale|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Piumosi|0|0|0|0|0|0|0|0|0|0|0|0|
-|Mestoli|0|0|0|0|0|0|0|0|0|0|0|0|
-|Neroni|0|0|0|0|0|0|0|0|0|0|0|0|
-|Veggenti|0|0|0|0|0|0|0|0|0|0|0|0|
-
-### (pomeriggio elemetari)
-
-### percorso con la spugna (pomeriggio medie)
-
-|Squadre|punti|
+||round 1|
 |:---:|:---:|
-|piumosi||
-|neroni||
-|mestoli||
-|veggenti||
+|Piumosi|1||
+|Neroni|||
+|Mestoli||1|
+|Veggenti|1|
+
+### percorso con il bicchiere (pomeriggio medie)
+
+||round 1|
+|:---:|:---:|
+|Piumosi/Neroni|Vittoria|
+|Mestoli/Veggenti|Sconfitta|
+
+### gioco delle bottiglie e pallina da tennis (elementari pomeriggio)
 
 # tabella punteggi
 

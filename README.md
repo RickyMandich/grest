@@ -249,8 +249,9 @@
 |gioco delle sedie (mattina medie)|4|3|4|4|
 |percorso con il bicchiere (pomeriggio medie)|4|4|3|3|
 |gioco delle bottiglie e pallina da tennis (elementari pomeriggio)|
-|somma medie|
+|somma medie|12|8|10|9|
 |somma elementari|
+|punti tabellone|4|1|3|2|
 
 # tabella punteggi
 

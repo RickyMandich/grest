@@ -4,11 +4,9 @@
 ## medie
 # da fare
 ## per tutti
-- organizzare i giochi d'acqua sulla base di quello che dice don mauro deppieri
 ## elementari
 ## medie
-
-### film in corso: il pianeta del tesoro minutaggio 59:00
+* preparare il video in stop motion sulla base delle foto presenti nella cartella `video stop motion`
 
 # giochi
 ## martedì

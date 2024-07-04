@@ -240,6 +240,13 @@
 
 ### gioco delle bottiglie e pallina da tennis (elementari pomeriggio)
 
+||punti|
+|:---:|:---:|
+|piuomosi|1|
+|neroni|2|
+|mestoli|4|
+|veggenti|3|
+
 ### somma vittorie
 
 |Vittorie|||||
@@ -248,16 +255,16 @@
 |quizzone|4|1|3|2|
 |gioco delle sedie (mattina medie)|4|3|4|4|
 |percorso con il bicchiere (pomeriggio medie)|4|4|3|3|
-|gioco delle bottiglie e pallina da tennis (elementari pomeriggio)|
+|gioco delle bottiglie e pallina da tennis (elementari pomeriggio)|1|2|4|3|
 |somma medie|12|8|10|9|
-|somma elementari|
-|punti tabellone|4|1|3|2|
+|somma elementari|5|3|7|5|
+|punti tabellone|4+3|1+2|3+4|2+3|
 
 # tabella punteggi
 
-||lunedì 24|martedì 25|mercoledì 26|giovedì 27|venerdì 28|lunedì 1|martedì 2|mercoledì 3|giovedì 4|venerdì 5|totale
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Piumosi|0|3+3|4+3|4+3|0|2+3|3+3|0||0|31|
-|Mestoli|0|3+4|2+4|3+3|0|3+2|2+2|0||0|28|
-|Neroni|0|4+3|1+3|3+3|0|2+3|4+4|0||0|30|
-|Veggenti|0|2+2|3+4|4+4|0|4+4|1+1|0||0|29|
+||lunedì 24|martedì 25|mercoledì 26|giovedì 27|venerdì 28|lunedì 1|martedì 2|mercoledì 3|giovedì 4|venerdì 5|bonus servizio giovedì|bonus servizio venerdì|totale
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|Piumosi|0|3+3|4+3|4+3|0|2+3|3+3|0|4+3|0|5||43|
+|Mestoli|0|3+4|2+4|3+3|0|3+2|2+2|0|3+4|0|8||43|
+|Neroni|0|4+3|1+3|3+3|0|2+3|4+4|0|1+2|0|1||34|
+|Veggenti|0|2+2|3+4|4+4|0|4+4|1+1|0|2+3|1||2|37|

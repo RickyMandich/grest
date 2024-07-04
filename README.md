@@ -245,7 +245,7 @@
 |Vittorie|||||
 |:---:|:---:|:---:|:---:|:---:|
 ||Piumosi|Neroni|Mestoli|Veggenti|
-|quizzone|
+|quizzone|4|1|3|2|
 |gioco delle sedie (mattina medie)|4|3|4|4|
 |percorso con il bicchiere (pomeriggio medie)|4|4|3|3|
 |gioco delle bottiglie e pallina da tennis (elementari pomeriggio)|

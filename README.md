@@ -224,12 +224,12 @@
 
 ### gioco delle sedie (mattina medie)
 
-||round 1|round 2|
-|:---:|:---:|:---:|
-|Piumosi|1||
-|Neroni|||
-|Mestoli||1|
-|Veggenti|1|
+||round 1|round 2|punti gioco|
+|:---:|:---:|:---:|:---:|
+|Piumosi|1||4|
+|Neroni|||3|
+|Mestoli||1|4|
+|Veggenti|1||4|
 
 ### percorso con il bicchiere (pomeriggio medie)
 
@@ -246,9 +246,11 @@
 |:---:|:---:|:---:|:---:|:---:|
 ||Piumosi|Neroni|Mestoli|Veggenti|
 |quizzone|
-|gioco delle sedie (mattina medie)|
-|percorso con il bicchiere (pomeriggio medie)|
+|gioco delle sedie (mattina medie)|4|3|4|4|
+|percorso con il bicchiere (pomeriggio medie)|4|4|3|3|
 |gioco delle bottiglie e pallina da tennis (elementari pomeriggio)|
+|somma medie|
+|somma elementari|
 
 # tabella punteggi
 

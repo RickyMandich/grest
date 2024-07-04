@@ -191,7 +191,7 @@
 |Neroni|12|13|6|14|2|6|0|6|14|10|6|10|99|
 |Veggenti|8|2|12|4|0|8|4|2|8|4|16|8|76|
 
-### wiskey soda e rock n' roll
+### wiskey, soda e rock n' roll
 
 ||punti|
 |:---:|:---:|
@@ -224,8 +224,8 @@
 
 ### gioco delle sedie (mattina medie)
 
-||round 1|
-|:---:|:---:|
+||round 1|round 2|
+|:---:|:---:|:---:|
 |Piumosi|1||
 |Neroni|||
 |Mestoli||1|
@@ -239,6 +239,16 @@
 |Mestoli/Veggenti|Sconfitta|
 
 ### gioco delle bottiglie e pallina da tennis (elementari pomeriggio)
+
+### somma vittorie
+
+|Vittorie|||||
+|:---:|:---:|:---:|:---:|:---:|
+||Piumosi|Neroni|Mestoli|Veggenti|
+|quizzone|
+|gioco delle sedie (mattina medie)|
+|percorso con il bicchiere (pomeriggio medie)|
+|gioco delle bottiglie e pallina da tennis (elementari pomeriggio)|
 
 # tabella punteggi
 

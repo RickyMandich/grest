@@ -217,10 +217,10 @@
 
 |Squadre|punti|
 |:---:|:---:|
-|piumosi||
-|neroni||
-|mestoli||
-|veggenti||
+|piumosi|22|
+|neroni|9|
+|mestoli|21|
+|veggenti|13|
 
 ### gioco delle sedie (mattina medie)
 
